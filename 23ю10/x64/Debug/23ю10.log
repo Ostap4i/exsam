@@ -1,0 +1,4 @@
+﻿  23ю10.cpp
+C:\Users\Admin\source\repos\23ю10\23ю10\23ю10.cpp(49,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\23ю10\23ю10\23ю10.cpp(97,18): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  23ю10.vcxproj -> C:\Users\Admin\source\repos\23ю10\x64\Debug\23ю10.exe
